@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tmdb/movie/movie_app/BuildConfig.java
+ com.tmdb.movie.movie_app.BuildConfig
